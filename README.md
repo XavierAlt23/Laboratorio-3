@@ -51,6 +51,12 @@ Laboratorio 3
 
 3.4.3. Compare los valores de la tabla 3.1 y realice sus conclusiones.
 
+![image](https://user-images.githubusercontent.com/105680588/172739597-c75b141b-d292-452f-847d-46019c056d01.png)
+
+![image](https://user-images.githubusercontent.com/105680588/172739672-03c9a1ef-7eda-4194-83ed-0ee06866c0e0.png)
+
+![image](https://user-images.githubusercontent.com/105680588/172742366-9c4df7cf-5bb1-4875-af6d-81d3fe675af5.png)
+
 
 
 

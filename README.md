@@ -8,11 +8,15 @@
 
 **3.1. OBJETIVO DE LA PRÁCTICA**
 
-Comprobar experimentalmente el Análisis de Nodos.
+Realizar el circuito indicado y comprobar experimentalmente el Análisis de Nodos.
 
 **Objetivo General:**
+Analizar circuitos aplicando el análisis de nodos
 
 **Objetivo Especifico:**
+Utilizar el método de la corriente en ramas para determinar cantidades desconocidas en un circuito
+
+Utilizar el análisis de nodos para determinar cantidades desconocidas en un circuito
 
 **3.2. MARCO TEORICO**
 
@@ -63,6 +67,9 @@ Comprobar experimentalmente el Análisis de Nodos.
 ![image](https://user-images.githubusercontent.com/105680588/172742366-9c4df7cf-5bb1-4875-af6d-81d3fe675af5.png)
 
 **Conclusiones**
+La potencia aparente es mayor a la potencia real
+Mediante la medición de los nodos pudimos determinar los voltajes obtenidos  en cada nodo
+encontrar los  voltajes que pueden encontrarse en el nodo y encontrar la corriente que pase  por las impedancias
 
 **Bibliografía**
 
